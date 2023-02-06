@@ -1,7 +1,9 @@
 
 
+Allow: /
 User-agent: *
 Allow: /https://nikixxxxxxxxxxxxxxx.github.io/gallery.html
 Disallow: /https://nikixxxxxxxxxxxxxxx.github.io/images/
 Disallow: /https://nikixxxxxxxxxxxxxxx.github.io/admin/
 Sitemap: https://nikixxxxxxxxxxxxxxx.github.io/sitemap.xml
+Host: Nikixxxxxxxxxxxxxxx.github.io
